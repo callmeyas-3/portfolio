@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="180" height="130" viewBox="0 0 180 130" fill="none">
-  <g stroke="#1f1f1f" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="110" viewBox="0 0 120 110" fill="none">
+  <g stroke="#1a1a1a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
     <!-- head + ears -->
-    <path d="M58 20
-             Q74 40 90 49
-             Q106 40 122 20
-             Q132 43 133 60
-             C137 83 121 106 90 110
-             C59 106 43 83 47 60
-             Q48 43 58 20 Z" fill="#fff"/>
-    <!-- eyes -->
-    <path d="M61 77 Q69 69 78 77"/>
-    <path d="M102 77 Q111 69 119 77"/>
+    <path d="M18 42 L29 14 L47 31 Q60 27 73 31 L91 14 L102 42
+             C108 62 96 82 60 84
+             C24 82 12 62 18 42 Z" fill="#fff"/>
+    <!-- eyes (closed, content) -->
+    <path d="M40 50 Q45 57 50 50"/>
+    <path d="M70 50 Q75 57 80 50"/>
+    <!-- mouth -->
+    <path d="M60 62 Q60 69 53 69"/>
+    <path d="M60 62 Q60 69 67 69"/>
     <!-- whiskers -->
-    <path d="M55 85 L21 82"/>
-    <path d="M55 90 L21 95"/>
-    <path d="M125 85 L159 82"/>
-    <path d="M125 90 L159 95"/>
+    <path d="M50 60 L25 54"/>
+    <path d="M50 64 L23 65"/>
+    <path d="M50 68 L25 75"/>
+    <path d="M70 60 L95 54"/>
+    <path d="M70 64 L97 65"/>
+    <path d="M70 68 L95 75"/>
   </g>
   <!-- nose -->
-  <path d="M84 88 L96 88 L90 96 Z" fill="#1f1f1f"/>
-  <path d="M90 96 L90 101" stroke="#1f1f1f" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M56 57 L64 57 L60 63 Z" fill="#1a1a1a"/>
 </svg>
